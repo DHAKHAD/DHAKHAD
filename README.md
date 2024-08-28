@@ -31,6 +31,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
 - ⚙️ &nbsp;
+- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 -   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
 -  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
