@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Nagar</h1>
 <h3 align="center">A passionate fullstack developer from India and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Sunil Nagar" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br></br>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
