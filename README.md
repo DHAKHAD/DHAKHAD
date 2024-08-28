@@ -15,11 +15,11 @@
 </a>
 
 <br/>
-<h3 align="left">🛠 &nbsp;Languages and Tools:</h3
-<p align="left">💻<p align="center"> 🌐 </p></p>
+<h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
+  💻nbsp;
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
 - <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) </a>
-- 
+-  🌐nbsp;
 - <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
 - <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
 - ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)
