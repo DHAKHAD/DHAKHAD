@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sunil Nagar</h1>
 <h3 align="center">A passionate fullstack developer from India and Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sunil-nagar-7775s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Nagar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sunilnagar777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilnagar777-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sunilnagar9785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunilnagar9784@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <a href="https://github.com/DHAKHAD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=buefy&layout=compact" />
@@ -36,12 +44,5 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sunil-nagar-7775s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Nagar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sunilnagar777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilnagar777-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sunilnagar9785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunilnagar9784@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [DHAKHAD](https://github.com/DHAKHAD)
