@@ -8,13 +8,13 @@
 <a href="https://www.instagram.com/sunilnagar777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilnagar777-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sunilnagar9785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunilnagar9784@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 <a href="https://github.com/DHAKHAD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=buefy&layout=compact" />
 </a>
 
 <br/>
+
 <h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
   💻nbsp;
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
