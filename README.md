@@ -16,13 +16,6 @@
 <br/>
 
 <h3>🛠 &nbsp;Languages and Tools:</h3>
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)</a>
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
-
 - 💻 &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -41,16 +34,14 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux- 
-   original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> ![Next.JS]( https://img.shields.io/badge/N-LINUX-black) </a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)</a>
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
 <br/>
 
 ⭐️ From [DHAKHAD](https://github.com/DHAKHAD)
