@@ -15,7 +15,7 @@
 
 <br/>
 
-<h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
+<h3>🛠 &nbsp;Languages and Tools:</h3>
   💻nbsp;
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
 - <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) </a>
@@ -30,11 +30,13 @@
 -  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</a>
 - <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
 - ⚙️ &nbsp;
-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+    alt="tailwind" width="40" height="40"/> </a>
 -   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
 -  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux- 
+   original.svg" alt="linux" width="40" height="40"/> </a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -44,6 +46,5 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
 
 ⭐️ From [DHAKHAD](https://github.com/DHAKHAD)
