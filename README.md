@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Nagar</h1>
-<h3 align="center">A passionate fullstack developer from India
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
+<h3 align="center">A passionate fullstack developer from India and Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
 
 <a href="https://github.com/DHAKHAD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&theme=buefy&show_icons=true" />
