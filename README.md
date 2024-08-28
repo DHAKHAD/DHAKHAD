@@ -18,6 +18,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)/> </a>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🌐 &nbsp;
