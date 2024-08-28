@@ -23,9 +23,9 @@
   
 - 🌐 &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
-  ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) </a>
 - 🛢 &nbsp;
@@ -33,7 +33,6 @@
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
 - ⚙️ &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">![LINUX](https://img.shields.io/badge/-LINUX-333333?style=flat&logo=LINUX)</a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
