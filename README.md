@@ -16,7 +16,6 @@
 <br/>
 
 <h3>🛠 &nbsp;Languages and Tools:</h3>
-  💻nbsp;
 -  🌐nbsp;
 - <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
 - <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
@@ -30,8 +29,7 @@
 - ⚙️ &nbsp;
 - <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
     alt="tailwind" width="40" height="40"/> </a>
--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
--  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 
 - 🔧 &nbsp;
 - <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux- 
    original.svg" alt="linux" width="40" height="40"/> </a>
@@ -60,9 +58,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
+    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
