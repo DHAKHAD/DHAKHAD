@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Nagar</h1>
 <h3 align="center">A passionate fullstack developer from India and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHAKHAD&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil Nagar" /> </p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
