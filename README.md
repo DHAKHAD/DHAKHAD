@@ -16,6 +16,7 @@
 <br/>
 
 <h3>🛠 &nbsp;Languages and Tools:</h3>
+
 - 💻 &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
