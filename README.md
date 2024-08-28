@@ -20,9 +20,9 @@
 - 💻 &nbsp;
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) </a>
 - <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) </a>
--  <h1 align="center">🌐 &nbsp;
+-  <p align="left">🌐 &nbsp;
 - <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a></h1>
+- <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a></p>
 - ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
 - <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </a>
