@@ -35,7 +35,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> ![Next.JS](https://www.linux.org/images/logo.png) </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> ![Next.JS]("https://www.linux.org/images/logo.png"alt="angular" width="40" height="40"/> </a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)
