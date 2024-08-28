@@ -16,26 +16,6 @@
 <br/>
 
 <h3>🛠 &nbsp;Languages and Tools:</h3>
--  🌐nbsp;
-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
-- ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </a>
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) </a>
-- 🛢 &nbsp;
--  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</a>
-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
-- ⚙️ &nbsp;
-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-    alt="tailwind" width="40" height="40"/> </a>
-- 
-- 🔧 &nbsp;
-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux- 
-   original.svg" alt="linux" width="40" height="40"/> </a>
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)</a>
@@ -48,19 +28,21 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </a>
+  ![Next.JS]( https://img.shields.io/badge/N-NEXT.JS-black)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) </a>
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
 - ⚙️ &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) </a>
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux- 
+   original.svg" alt="linux" width="40" height="40"/> </a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
