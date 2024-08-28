@@ -28,6 +28,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> ![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss) </a> 
 - 🛢 &nbsp;
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) </a>
