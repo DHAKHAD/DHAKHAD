@@ -42,6 +42,7 @@
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sunil Nagar GitHub Stats">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=buefy&layout=compact" />
 </a>
 <br/>
 
