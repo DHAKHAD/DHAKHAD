@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Sunil Nagar</h1>
+<h3 align="center">A passionate fullstack developer from India and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHAKHAD&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil Nagar" /> </p>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sunil-nagar-7775s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Nagar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sunilnagar777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilnagar777-blue?style=flat-square&logo=instagram"></a>
