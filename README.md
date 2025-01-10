@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a dedicated software developer with expertise in analytical tools, seeking a position in a growth-oriented organization. I aim to leverage my skills to benefit the company and have strong problem-solving abilities to create effective
-solutions to real-world-based problem scenarios and challenges.and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University<br>
+I am a passionate software developer with expertise in analytical tools and a strong focus on solving real-world problems through innovative and effective solutions.<br>My experience in software development is backed by a solid foundation in Computer Science and Engineering, gained during my graduation from Visvesvaraya Technological University.
+I thrive on tackling challenging scenarios, using my problem-solving abilities to design and implement efficient, impactful solutions. My work reflects a commitment to continuous learning and leveraging technology to create meaningful results.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DHAKHAD&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil Nagar" /> </p>
 
 
