@@ -1,5 +1,6 @@
 # 💫 About Me:
-A passionate fullstack developer from India and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University<br>
+I am a dedicated software developer with expertise in analytical tools, seeking a position in a growth-oriented organization. I aim to leverage my skills to benefit the company and have strong problem-solving abilities to create effective
+solutions to real-world-based problem scenarios and challenges.and 🎓Graduated in Computer Science and Engineering at Visvesvaraya Technological University<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DHAKHAD&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil Nagar" /> </p>
 
 
