@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhakhad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhakhad&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](height="195em"https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhakhad&icon=0&color=0)](https://visitcount.itsvg.in)
