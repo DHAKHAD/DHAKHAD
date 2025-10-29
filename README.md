@@ -8,37 +8,37 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 ## 🌐 Socials:
 ## 🌐 Connect with Me  
 
+## 🌐 Connect with Me  
+
 <p align="center">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn%20--%20Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
-    <img alt="Instagram" 
-         src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
-    <img alt="Gmail" 
-         src="https://img.shields.io/badge/Gmail--sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <!-- Linktree -->
   <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
-    <img alt="Linktree" 
-         src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/Dhakhad" target="_blank">
-    <img alt="GitHub" 
-         src="https://img.shields.io/badge/GitHub--Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
+
 
 ---
 
