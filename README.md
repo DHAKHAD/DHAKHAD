@@ -137,11 +137,8 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo/>
-  </p>
-    
-# 💻 Tech Stack:
-<h2 align="center">🚀 Tech Stack</h2>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+</p>
 
 ---
 # 📊 GitHub Stats:
