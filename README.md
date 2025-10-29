@@ -10,20 +10,21 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Sunil%20Nagar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-@sunilnagar777-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  
   <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-sunilnagar9785@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  
   <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sunilnagar9784&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 
