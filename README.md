@@ -69,6 +69,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <img src="https://github-profile-trophy.vercel.app/?username=Dhakhad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
+--- 
 
 # 💻 Tech Stack:
 <h2 align="center">🚀 Tech Stack</h2>
@@ -142,6 +143,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 # 💻 Tech Stack:
 <h2 align="center">🚀 Tech Stack</h2>
 
+---
 # 📊 GitHub Stats:
 <h2 align="center">📊 GitHub Stats</h2>
 
