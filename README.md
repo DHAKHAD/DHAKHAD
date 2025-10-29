@@ -22,7 +22,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <h2 align="center">🌐 Connect with Me </h2>
  
 
