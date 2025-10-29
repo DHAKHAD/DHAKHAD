@@ -136,7 +136,8 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo/>
+  </p>
 
 # 📊 GitHub Stats:
 <h2 align="center">📊 GitHub Stats</h2>
