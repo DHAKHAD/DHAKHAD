@@ -8,18 +8,37 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 ## 🌐 Socials:
 ## 🌐 Connect with Me  
 
-<a href="https://www.linkedin.com/in/sunil-nagar-7775s/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/sunilnagar777/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:sunilnagar9785@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://linktr.ee/Sunil_Nagar7">
-  <img alt="Website" src="https://img.shields.io/badge/Linktree-%2300C300.svg?style=flat-square&logo=linktree&logoColor=white">
-</a>
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
+    <img alt="LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn%20--%20Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
+    <img alt="Instagram" 
+         src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
+    <img alt="Gmail" 
+         src="https://img.shields.io/badge/Gmail--sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
+    <img alt="Linktree" 
+         src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Dhakhad" target="_blank">
+    <img alt="GitHub" 
+         src="https://img.shields.io/badge/GitHub--Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
