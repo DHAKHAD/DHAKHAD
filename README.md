@@ -81,11 +81,26 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhakhad&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakhad&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180px"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhakhad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Dhakhad&icon=0&color=0" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</sub>
+</p>
+
