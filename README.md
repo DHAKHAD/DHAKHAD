@@ -8,23 +8,7 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 ## 🌐 Socials:
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"/>
-  </a>
-  <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"/>
-  </a>
-  <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"/>
-  </a>
-  <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-%2300C300.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Logo"/>
-  </a>
-  <a href="https://github.com/Dhakhad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sunil-nagar-7775s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Nagar-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.instagram.com/sunilnagar777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilnagar777-blue?style=flat-square&logo=instagram"></a> <a href="mailto:sunilnagar9785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunilnagar9784@gmail.com-blue?style=flat-square&logo=gmail"></a> <a href="https://linktr.ee/Sunil_Nagar7"><img alt="Website" src="https://img.shields.io/badge/Website-https://linktr.ee/Sunil_Nagar7-blue?style=flat-square&logo=website"></a>
 
 ---
 
