@@ -85,23 +85,22 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="180em"/>
 
-  <!-- Most Used Languages -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
-
 </div>
 
 ---
 
+<h3 align="center">👁️ Profile Views</h3>
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Dhakhad&icon=0&color=0" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dhakhad&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
 </p>
 
 <p align="center">
