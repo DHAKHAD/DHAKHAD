@@ -83,14 +83,18 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 # 📊 GitHub Stats:
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakhad&theme=tokyonight&hide_border=false" height="180px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180px"/>
-</p>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="180em"/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
+
+</div>
 
 ---
 
@@ -103,4 +107,5 @@ I thrive on tackling challenging scenarios, using my problem-solving abilities t
 <p align="center">
   <sub>✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</sub>
 </p>
+
 
