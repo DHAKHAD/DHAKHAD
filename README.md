@@ -1,7 +1,24 @@
-# 💫 About Me:<h1 align="center">Hi 👋I'm Sunil Nagar <h1/>
-<h3 align="center"> I am a passionate software developer with expertise in analytical tools and a strong focus on solving real-world problems through innovative and effective solutions.<br>My experience in software development is backed by a solid foundation in Computer Science and Engineering, gained during my graduation from Visvesvaraya Technological University.<br/>
-I thrive on tackling challenging scenarios, using my problem-solving abilities to design and implement efficient, impactful solutions. My work reflects a commitment to continuous learning and leveraging technology to create meaningful results.</h3><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHAKHAD&label=Profile%20views&color=0e75b6&style=flat" alt="Sunil Nagar" /> </p>
+# 💫 About Me  
+
+<h1 align="center">Hi 👋, I'm <span style="color:#0078D4;">Sunil Nagar</span></h1>
+
+<h3 align="center">
+I’m a passionate <strong>Software Developer</strong> who thrives on building efficient, innovative, and impactful solutions to real-world challenges.  
+With a strong foundation in <strong>Computer Science & Engineering</strong> from <strong>Visvesvaraya Technological University (VTU)</strong>, I combine analytical thinking with practical execution to deliver clean, maintainable, and scalable code.
+</h3>
+
+<p align="center">
+💡 I love turning ideas into reality through technology. <br>
+🚀 Continuously learning, improving, and contributing to the open-source community. <br>
+🧩 Strong focus on problem-solving, performance optimization, and automation.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhakhad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 
 
 
