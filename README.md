@@ -150,10 +150,11 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
  ![GitHub Streak](https://streak-stats.demolab.com/?user=DHAKHAD&theme=tokyonight&hide_border=false&r=1)
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DHAKHAD&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DHAKHAD&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&r=1" alt="GitHub Streak" />
+</p>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&layout=compact" height="180em" />
