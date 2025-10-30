@@ -147,7 +147,8 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=DHAKHAD&theme=tokyonight&hide_border=false&r=1)
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DHAKHAD&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
