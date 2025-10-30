@@ -150,7 +150,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="150em" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&layout=compact" height="180em" />
