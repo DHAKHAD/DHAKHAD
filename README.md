@@ -145,9 +145,6 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-  <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats" />
 
   <!-- GitHub Streak (Working Mirror) -->
