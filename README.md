@@ -144,18 +144,19 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 # 📊 GitHub Stats:
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=DHAKHAD&theme=tokyonight&hide_border=false&r=1" alt="GitHub Streak" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 
-</div>
+</p>
+
 
 
 
