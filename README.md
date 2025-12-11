@@ -142,18 +142,22 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 </p>
 
 ---
-# 📊 GitHub Stats:
+<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center"> 
-  
-  <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Dhakhad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
-  
-<!-- GitHub Streak --> <img src="https://streak-stats.demolab.com?user=Dhakhad&theme=tokyonight&hide_border=false" height="180em"/> 
+<div align="center">
 
-<!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakhad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=DHAKHAD&theme=tokyonight&hide_border=false" height="180em" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=tokyonight&hide_border=false&layout=compact" height="180em" />
 
 </div>
+
 
 
 ---
