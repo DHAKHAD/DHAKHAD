@@ -114,7 +114,6 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 </p>
 
 ---
----
 
 <h2 align="center">🧪 QA & Testing Skills</h2>
 
@@ -134,6 +133,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <!-- Bug Reporting -->
   <img src="https://img.shields.io/badge/Bug_Reporting-8338EC?style=flat-square" alt="Bug Reporting"/>
 </p>
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
