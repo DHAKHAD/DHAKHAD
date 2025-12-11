@@ -3,78 +3,50 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#0078D4;">Sunil Nagar</span></h1>
 
 <h3 align="center">
-I’m a passionate <strong>Software Developer</strong> who thrives on building efficient, innovative, and impactful solutions to real-world challenges.  
+I’m a passionate <strong>Software Developer</strong> who thrives on building efficient, innovative, and impactful solutions.  
 With a strong foundation in <strong>Computer Science & Engineering</strong> from <strong>Visvesvaraya Technological University (VTU)</strong>, I combine analytical thinking with practical execution to deliver clean, maintainable, and scalable code.
 </h3>
 
 <p align="center">
-💡 I love turning ideas into reality through technology. <br>
+💡 Turning ideas into reality through technology. <br>
 🚀 Continuously learning, improving, and contributing to the open-source community. <br>
 🧩 Strong focus on problem-solving, performance optimization, and automation.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhakhad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
-
-
-
-# 🌐 Socials:
-<h2 align="center">🌐 Connect with Me </h2>
- 
-
+# 🌐 Socials
+<h2 align="center">Connect with Me</h2>
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn%20--%20Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
-    <img alt="Instagram" 
-         src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
-    <img alt="Gmail" 
-         src="https://img.shields.io/badge/Gmail--sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail--sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <!-- Linktree -->
   <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
-    <img alt="Linktree" 
-         src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Dhakhad" target="_blank">
-    <img alt="GitHub" 
-         src="https://img.shields.io/badge/GitHub--Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/DHAKHAD" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub--Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
 ---
 
-<!-- 🏆 GITHUB TROPHIES (Working Alternative) -->
+<!-- 🏆 GitHub Trophies -->
 <h2 align="center">🏆 GitHub Achievements</h2>
-
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=DHAKHAD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+---
 
-
---- 
-
-# 💻 Tech Stack:
-<h2 align="center">🚀 Tech Stack</h2>
-
+# 💻 Tech Stack
+<h2 align="center">🚀 Languages, Frameworks & Tools</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -142,35 +114,21 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 </p>
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="180em"/>
-
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHAKHAD&theme=radical&hide_border=false" height="180em"/>
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=radical&hide_border=false&layout=compact" height="180em"/>
-
 </div>
-
-</div>
-
-
 
 ---
 
 <h3 align="center">👁️ Profile Views</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhakhad&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=DHAKHAD&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
 </p>
 
 <p align="center">
   <sub>✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</sub>
 </p>
-
-
