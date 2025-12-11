@@ -61,12 +61,13 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 
 ---
 
-<!-- 🏆 GITHUB TROPHIES -->
+<!-- 🏆 GITHUB TROPHIES (Working Alternative) -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHAKHAD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=DHAKHAD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
 
 
 --- 
