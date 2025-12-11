@@ -114,6 +114,27 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 </p>
 
 ---
+---
+
+<h2 align="center">🧪 QA & Testing Skills</h2>
+
+<p align="center">
+  <!-- Manual Testing -->
+  <img src="https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square" alt="Manual Testing"/>
+  <!-- Automation Testing -->
+  <img src="https://img.shields.io/badge/Automation_Testing-6BCB77?style=flat-square" alt="Automation Testing"/>
+  <!-- Selenium -->
+  <img src="https://img.shields.io/badge/Selenium-43BCCD?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <!-- API Testing -->
+  <img src="https://img.shields.io/badge/API_Testing-F7B801?style=flat-square" alt="API Testing"/>
+  <!-- Test Case Design -->
+  <img src="https://img.shields.io/badge/Test_Case_Design-FF5E5B?style=flat-square" alt="Test Case Design"/>
+  <!-- Bug Reporting -->
+  <img src="https://img.shields.io/badge/Bug_Reporting-8338EC?style=flat-square" alt="Bug Reporting"/>
+</p>
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
