@@ -253,17 +253,20 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 
 <div align="center">
 
+  <!-- Total commits, repos, followers -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=tokyonight&hide_border=false" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" 
+    height="180em"
   />
 
+  <!-- Top languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&layout=compact&theme=tokyonight&hide_border=false" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&layout=compact&theme=github_dark&hide_border=false" 
+    height="180em"
   />
 
 </div>
+
 
 
 
