@@ -248,24 +248,30 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 
 ---
 
-### 🧾 My GitHub Real Data
+# 🧾 My GitHub Real Data
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
 
-  <!-- Total commits, repos, followers -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" 
+  <!-- Total Stats -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=DHAKHAD&show_icons=true&theme=dark"
     height="180em"
   />
 
-  <!-- Top languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&layout=compact&theme=github_dark&hide_border=false" 
+  <!-- Streak Card -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=DHAKHAD&theme=dark"
+    height="180em"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DHAKHAD&layout=compact&theme=dark"
     height="180em"
   />
 
 </div>
+
 
 
 
