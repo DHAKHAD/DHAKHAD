@@ -249,17 +249,18 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 ---
 
 ### 🧾 My GitHub Real Data
-<h2 align="center">📊 GitHub Stats (Real-Time Data)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Public%20Repos&query=public_repos&color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="180em"/>
 
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Followers&query=followers&color=brightgreen" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHAKHAD2004&theme=radical&hide_border=false" height="180em"/>
 
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Following&query=following&color=yellow" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD2004&theme=radical&hide_border=false&layout=compact" height="180em"/>
 
 </div>
+
 
 
 
