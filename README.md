@@ -249,11 +249,26 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHAKHAD&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHAKHAD&theme=radical&hide_border=false" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD&theme=radical&hide_border=false&layout=compact" height="180em"/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DHAKHAD2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true"
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DHAKHAD2004&theme=radical&hide_border=false"
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD2004&theme=radical&hide_border=false&layout=compact"
+    height="180em"
+  />
+
 </div>
+
 
 ---
 
