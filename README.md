@@ -132,8 +132,8 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>
 
-
-<h2 align="Right">🧪 QA & Testing Skills</h2>
+# 🧪 QA & Testing Skills
+<h2 align="center">🧪 QA & Testing Skills</h2>
 
 <h3 align="center">🔍 Core Testing Skills</h3>
 <p align="center">
