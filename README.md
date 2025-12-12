@@ -36,7 +36,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 </p>
 
 ---
-
+# 🏆 GitHub Trophies
 <!-- 🏆 GitHub Trophies -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
@@ -248,26 +248,13 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🧾 My GitHub Real Data
 
-<div align="center">
+- **Public Repos:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=repos&query=public_repos&color=blue" />
+- **Followers:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=followers&query=followers&color=brightgreen" />
+- **Following:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=following&query=following&color=yellow" />
+- **Account Created:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=created&query=created_at&color=orange" />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DHAKHAD2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true"
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DHAKHAD2004&theme=radical&hide_border=false"
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAKHAD2004&theme=radical&hide_border=false&layout=compact"
-    height="180em"
-  />
-
-</div>
 
 
 ---
