@@ -25,7 +25,7 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:sunilnagar9785@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail--sunilnagar9785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail--sunilnagar9784%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
