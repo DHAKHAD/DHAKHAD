@@ -249,11 +249,18 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 ---
 
 ### 🧾 My GitHub Real Data
+<h2 align="center">📊 GitHub Stats (Real-Time Data)</h2>
 
-- **Public Repos:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=repos&query=public_repos&color=blue" />
-- **Followers:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=followers&query=followers&color=brightgreen" />
-- **Following:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=following&query=following&color=yellow" />
-- **Account Created:** <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=created&query=created_at&color=orange" />
+<div align="center">
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Public%20Repos&query=public_repos&color=blue" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Followers&query=followers&color=brightgreen" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DHAKHAD2004&label=Following&query=following&color=yellow" />
+
+</div>
+
 
 
 
