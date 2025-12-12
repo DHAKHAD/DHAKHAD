@@ -60,8 +60,118 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=black"/> </p>
 🛠 Tools
 <p align="center"> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/> </p>
-🧪 QA & Testing Skills
-<p align="center"> <img src="https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Functional_Testing-FF9F1C?style=flat-square"/> <img src="https://img.shields.io/badge/Regression_Testing-F77F00?style=flat-square"/> <img src="https://img.shields.io/badge/Smoke_&_Sanity_Testing-70C1B3?style=flat-square"/> <img src="https://img.shields.io/badge/Requirement_Analysis-8ECAE6?style=flat-square"/> <img src="https://img.shields.io/badge/Test_Case_Design_&_Execution-FF5E5B?style=flat-square"/> <img src="https://img.shields.io/badge/STLC_/_SDLC-3A86FF?style=flat-square"/> <img src="https://img.shields.io/badge/RTM-577590?style=flat-square"/> <img src="https://img.shields.io/badge/Defect_Logging_&_Bug_Reporting-8338EC?style=flat-square"/> <img src="https://img.shields.io/badge/API_Testing_(Postman)-F7B801?style=flat-square"/> <img src="https://img.shields.io/badge/Selenium_(Basic)-43BCCD?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/PyTest_(Basic)-6BCB77?style=flat-square"/> <img src="https://img.shields.io/badge/SQL_Validation-1982C4?style=flat-square"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Excel_Test_Documentation-008000?style=flat-square"/> </p>
+<h2 align="center">🧪 QA & Testing Skills</h2>
+
+<h3 align="center">🔍 Core Testing Skills</h3>
+<p align="center">
+
+  <!-- Manual Testing -->
+  <img src="https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square&logo=testing-library&logoColor=white" />
+
+  <!-- Functional Testing -->
+  <img src="https://img.shields.io/badge/Functional_Testing-1E90FF?style=flat-square" />
+
+  <!-- Regression Testing -->
+  <img src="https://img.shields.io/badge/Regression_Testing-5A189A?style=flat-square" />
+
+  <!-- Smoke Testing -->
+  <img src="https://img.shields.io/badge/Smoke_Testing-FF9F1C?style=flat-square" />
+
+  <!-- Sanity Testing -->
+  <img src="https://img.shields.io/badge/Sanity_Testing-FFBF69?style=flat-square" />
+
+  <!-- Test Case Design -->
+  <img src="https://img.shields.io/badge/Test_Case_Design-FF5E5B?style=flat-square" />
+
+  <!-- Test Execution -->
+  <img src="https://img.shields.io/badge/Test_Execution-3A86FF?style=flat-square" />
+
+  <!-- Requirement Analysis -->
+  <img src="https://img.shields.io/badge/Requirement_Analysis-7209B7?style=flat-square" />
+</p>
+
+---
+
+<h3 align="center">🐞 Defect Tracking & QA Process</h3>
+<p align="center">
+
+  <!-- Bug Reporting -->
+  <img src="https://img.shields.io/badge/Bug_Reporting-8338EC?style=flat-square&logo=bugatti&logoColor=white" />
+
+  <!-- JIRA -->
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+
+  <!-- STLC / SDLC -->
+  <img src="https://img.shields.io/badge/STLC%20%2F%20SDLC-6A4C93?style=flat-square" />
+
+  <!-- RTM -->
+  <img src="https://img.shields.io/badge/RTM_(Traceability)-3C096C?style=flat-square" />
+
+  <!-- Test Summary Report -->
+  <img src="https://img.shields.io/badge/Test_Summary_Report-0077B6?style=flat-square" />
+
+</p>
+
+---
+
+<h3 align="center">🌐 API & Database Testing</h3>
+<p align="center">
+
+  <!-- API Testing -->
+  <img src="https://img.shields.io/badge/API_Testing-F7B801?style=flat-square&logo=postman&logoColor=white" />
+
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+  <!-- SQL Queries -->
+  <img src="https://img.shields.io/badge/SQL_Queries-00758F?style=flat-square&logo=mysql&logoColor=white" />
+
+  <!-- Database Validation -->
+  <img src="https://img.shields.io/badge/Data_Validation-2D6A4F?style=flat-square" />
+
+</p>
+
+---
+
+<h3 align="center">🤖 Automation (Basic)</h3>
+<p align="center">
+
+  <!-- Selenium -->
+  <img src="https://img.shields.io/badge/Selenium-43BCCD?style=flat-square&logo=selenium&logoColor=white" />
+
+  <!-- PyTest -->
+  <img src="https://img.shields.io/badge/PyTest-0A9396?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- JavaScript (Basic) -->
+  <img src="https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+
+</p>
+
+---
+
+<h3 align="center">🛠 Tools & Productivity</h3>
+<p align="center">
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel_Test_Documentation-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
+  <!-- PyCharm -->
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black" />
+
+</p>
+
 
 ---
 
