@@ -46,21 +46,94 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
 ---
 
 # 💻 Tech Stack
-🧑‍💻 Programming Languages
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> </p>
-🎨 Frontend Development
-<p align="center"> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular.js-E23237?style=flat-square&logo=angularjs&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white"/> </p>
-⚙️ Backend Development
-<p align="center"> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/> <img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white"/> </p>
-🗄️ Databases
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> </p>
-☁️ Cloud & DevOps
-<p align="center"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> </p>
-📊 Data & AI
-<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=black"/> </p>
-🛠 Tools
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/> </p>
-<h2 align="center">🧪 QA & Testing Skills</h2>
+<h2 align="center">💻 Tech Stack</h2>
+
+<!-- Programming Languages -->
+<h3 align="center">🧑‍💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</p>
+
+---
+
+<!-- Frontend Development -->
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular.js-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white"/>
+</p>
+
+---
+
+<!-- Backend Development -->
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+
+---
+
+<!-- Databases -->
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+---
+
+<!-- Cloud & DevOps -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+<!-- Data & AI -->
+<h3 align="center">📊 Data & AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=black"/>
+</p>
+
+---
+
+<!-- Tools -->
+<h3 align="center">🛠 Tools & Editors</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+</p>
+
+
+<h2 align="Right">🧪 QA & Testing Skills</h2>
 
 <h3 align="center">🔍 Core Testing Skills</h3>
 <p align="center">
