@@ -21,19 +21,20 @@ With a strong foundation in <strong>Computer Science & Engineering</strong> from
   <a href="https://www.linkedin.com/in/sunil-nagar-7775s/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--Sunil%20Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sunilnagar777/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--sunilnagar777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:sunilnagar9784@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail--sunilnagar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
+  <a href="https://leetcode.com/u/sunilnagar7775/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode--sunilnagar7775-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/DHAKHAD" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub--Dhakhad-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://linktr.ee/Sunil_Nagar7" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree--Portfolio-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+  <a href="mailto:sunilnagar9784@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail--sunilnagar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 # 🏆 GitHub Trophies
